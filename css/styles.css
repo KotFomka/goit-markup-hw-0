@@ -1,45 +1,28 @@
 .mark {
-  width: 264px;
-  height: 380px;
-  top: 1248px;
-  left: 156px;
-  padding: 0px 0px 32px 0px;
-  border-radius: 0px 0px 4px 4px;
-  gap: 32px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02;
+  color: #2e2f42;
 }
 .tom {
-  width: 264px;
-  height: 380px;
-  top: 1248px;
-  left: 444px;
-  padding: 0px 0px 32px 0px;
-  border-radius: 0px 0px 4px 4px;
-  gap: 32px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02;
+  color: #2e2f42;
 }
 .camila {
-  width: 264px;
-  height: 380px;
-  top: 1248px;
-  left: 732px;
-  padding: 0px 0px 32px 0px;
-  border-radius: 0px 0px 4px 4px;
-  gap: 32px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02;
+  color: #2e2f42;
 }
 .daniel {
-  width: 264px;
-  height: 380px;
-  top: 1248px;
-  left: 
-1020px;
-  padding: 0px 0px 32px 0px;
-  border-radius: 0px 0px 4px 4px;
-  gap: 32px;
-}
-
-
-.our-team {
-  width: 1440px;
-  height: 732px;
-  top: 1016px;
-  background-color: #F4F4FD;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02;
+  color: #2e2f42;
 }
