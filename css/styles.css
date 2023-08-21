@@ -1,7 +1,7 @@
 .logo {
  color: #4d5ae5 ;
  font-family: "Raleway";
- font-weight: 700f;
+ font-weight: 700;
  font-size: 18px;
  line-height: 1.17;
  letter-spacing: 0.03em;
@@ -14,7 +14,7 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #404bbf;
+  color: #2e2f42;
 }
 
 .menu-item {
