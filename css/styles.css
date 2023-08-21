@@ -1,3 +1,39 @@
+.menu-item {
+ list-style-type: none;
+}
+
+.menu-link {
+ color: #2e2f42;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+ text-decoration: none;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
+.address {
+  font-style: normal;
+}
+
+.address-link {
+ color: #434455;
+ font-style: normal;
+ font-size: 16px;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf; 
+}
+
+
 .gallery {
   background-color: #F4F4FD 
 }
