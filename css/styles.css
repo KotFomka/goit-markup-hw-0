@@ -1,3 +1,22 @@
+.logo {
+ color: #4d5ae5 ;
+ font-family: "Raleway";
+ font-weight: 700f;
+ font-size: 18px;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+ font-family: "Raleway", sans-serif;
+}
+
+.stidio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #404bbf;
+}
+
 .menu-item {
  list-style-type: none;
 }
