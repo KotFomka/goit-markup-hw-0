@@ -113,7 +113,7 @@
 }
 
 .logo-1 {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
@@ -121,6 +121,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
+ }
+
+ .stidio {
+  color: #f4f4fd;
  }
 
  .web-studio-text {
