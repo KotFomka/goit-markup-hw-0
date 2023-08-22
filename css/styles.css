@@ -1,3 +1,9 @@
+.body-style {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF;
+}
+
 .logo {
  color: #4d5ae5 ;
  font-family: "Raleway";
@@ -10,11 +16,11 @@
 }
 
 .stidio {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
 
 .menu-item {
