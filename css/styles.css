@@ -1,3 +1,7 @@
+body {
+  font-family: "Raleway", "Roboto";
+}
+
 .body-style {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -82,10 +86,6 @@
   cursor: pointer;
 }
 
-.sektor-two {
-
-}
-
 .description-subtitle {
   color: #2e2f42;
   font-weight: 500;
@@ -157,7 +157,6 @@
 
 .web-footer {
   background-color: #2e2f42;
-
 }
 
 .logo-1 {
