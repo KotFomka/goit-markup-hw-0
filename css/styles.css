@@ -160,6 +160,10 @@ body {
   background-color: #ffffff;
 }
 
+.portfolio-title {
+  line-height: 1.2;
+}
+
 .portfolio-subtitle {
   color: #2e2f42;
   font-weight: 500;
