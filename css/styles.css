@@ -40,7 +40,10 @@ body {
  text-decoration: none;
 }
 
-.menu-link:hover,
+.menu-link:hover {
+  color: #404bbf;
+}
+
 .menu-link:focus {
   color: #404bbf;
 }
