@@ -47,6 +47,15 @@ body {
   color: #434455;
 }
 
+.link-addr:hover {
+  color: #404bbf;
+}
+
+.link-addr:focus {
+  color: #404bbf;
+}
+
+
 .link:hover {
   color: #404bbf;
 }
