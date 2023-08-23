@@ -43,6 +43,10 @@ body {
   color: #2e2f42;
 }
 
+.link-addr {
+  color: #434455;
+}
+
 .link:hover {
   color: #404bbf;
 }
