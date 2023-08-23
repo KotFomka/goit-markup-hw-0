@@ -44,6 +44,9 @@ body {
 }
 
 .link-addr {
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  font-size: 16px;
   color: #434455;
 }
 
@@ -196,8 +199,8 @@ body {
  .stidio {
   color: #2e2f42;
  }
-
- .stidio {
+ 
+ .stidio-footer {
   color: #f4f4fd;
  }
 
