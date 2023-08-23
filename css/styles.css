@@ -32,7 +32,6 @@ body {
 }
 
 .menu-link {
- color: #2e2f42;
  font-size: 16px;
  font-weight: 500;
  line-height: 1.5;
@@ -40,11 +39,15 @@ body {
  text-decoration: none;
 }
 
-.menu-link:hover {
+.link {
+  color: #2e2f42;
+}
+
+.link:hover {
   color: #404bbf;
 }
 
-.menu-link:focus {
+.link:focus {
   color: #404bbf;
 }
 
