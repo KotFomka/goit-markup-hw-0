@@ -17,6 +17,8 @@ body {
  letter-spacing: 0.03em;
  text-transform: uppercase;
  font-family: "Raleway", sans-serif;
+ display: inline-block;
+ margin-bottom: 16px;
 }
 
 .stidio {
