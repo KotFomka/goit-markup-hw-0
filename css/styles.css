@@ -130,6 +130,11 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  border-radius: 4px;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 
 .button-text:hover {
