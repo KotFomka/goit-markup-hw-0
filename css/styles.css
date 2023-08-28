@@ -161,6 +161,8 @@ body {
 
 .gallery {
   background-color: #F4F4FD;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .gallery-item {
@@ -177,8 +179,6 @@ body {
   text-transform: capitalize;
   background-color: #ffffff;
   padding-top: 120px;
-  padding-bottom: 120px;
-  margin-bottom: 72px;
 }
 
 .gallery-subtitle {
