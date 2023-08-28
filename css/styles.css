@@ -8,6 +8,12 @@ body {
   background-color: #FFFFFF;
 }
 
+.header-menu {
+  border-bottom: 1px solid #e7e9fc;
+  display: flex;
+  
+}
+
 .logo {
  color: #4d5ae5 ;
  font-family: "Raleway";
