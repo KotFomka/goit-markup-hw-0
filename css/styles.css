@@ -516,12 +516,10 @@ header nav {
 
 .footer-form {
     display: flex;
-    gap: 24px;
     justify-content: center;
 }
 
 .footer-subscribe-text {
-    margin-right: 200px;
     margin-bottom: 16px;
     display: inline-block;
     color: var(--WHITE, #FFF);
@@ -571,7 +569,7 @@ header nav {
     justify-content: center;
     align-items: center;
     font-family: Roboto;
-    margin-left: 22px;
+    margin-left: 16px;
     color: var(--WHITE, #FFF);
     font-family: "Roboto", sans-serif;
     font-size: 16px;
