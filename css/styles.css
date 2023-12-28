@@ -674,6 +674,7 @@ header nav {
     height: 58px;
     margin-bottom: 8px;
     position: relative;
+    color: #2E2F42; 
 }
 
 .modal-input:focus {
